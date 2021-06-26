@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashnilvazirani
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DSA Algorithms
+- 🌱 I’m currently learning to optimise Algorithms
 - 💞️ I’m looking to collaborate on Software Development and bug fixes
 - 📫 How to reach me ashnilvazirani26@gmail.com
 
