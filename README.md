@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashnilvazirani
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning to optimise Algorithms
-- 💞️ I’m looking to collaborate on Software Development and bug fixes
-- 📫 How to reach me ashnilvazirani26@gmail.com
+- 👋 Hi, I’m @ashnilvazirani, an aspiring Software Engineer currently purusing MS in Computer Software Engineering at Rochester Institute of Technology.
+- 👀 I’m interested and motivated in the field Software Development and Engineering Systems which encourages me to pursue my career goals as a proficient Software Engineer in the industy.
+- 🌱 I’m currently learning cloud development and infrastructure management, which primarily involves AWS, Lambda expressions and Kubernetes.
+- 💞️ I’m looking forward attain a good position in a multinational Tech organisation to contribute towords their goals and an esteem for my software engineering career.
+- 📫 Reach out me via: https://www.linkedin.com/in/ashnil-vazirani/, ashnil.vazirani@mail.rit.edu, ashnilvazirani26@gmail.com
 
 <!---
 ashnilvazirani/ashnilvazirani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
