@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cloud development and infrastructure management, which primarily involves AWS, Lambda expressions and Kubernetes.
 - 💞️ I’m looking forward attain a good position in a multinational Tech organisation to contribute towords their goals and an esteem for my software engineering career.
 - 📫 Reach out me via: https://www.linkedin.com/in/ashnil-vazirani/, ashnil.vazirani@mail.rit.edu, ashnilvazirani26@gmail.com
-
+- Alternate github profile: https://github.com/av3977
 <!---
 ashnilvazirani/ashnilvazirani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
